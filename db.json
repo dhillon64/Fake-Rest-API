@@ -1,0 +1,67 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 3
+    },
+    {
+      "title": "red dead",
+      "description": "check out this crazy stream",
+      "userId": "102937924504964514458",
+      "id": 7
+    },
+    {
+      "title": "Cyberpunk2077",
+      "description": "first time run through",
+      "userId": "118051767862854697251",
+      "id": 8
+    },
+    {
+      "title": "call of Duty",
+      "description": "warzone2",
+      "userId": "118051767862854697251",
+      "id": 11
+    },
+    {
+      "title": "high",
+      "description": "check",
+      "userId": "118051767862854697251",
+      "id": 12
+    },
+    {
+      "title": "low",
+      "description": "check it",
+      "userId": "118051767862854697251",
+      "id": 14
+    },
+    {
+      "title": "high",
+      "description": "warzone",
+      "userId": "118051767862854697251",
+      "id": 15
+    },
+    {
+      "title": "medium",
+      "description": "code",
+      "userId": "118051767862854697251",
+      "id": 16
+    },
+    {
+      "title": "low",
+      "description": "overwatch",
+      "userId": "118051767862854697251",
+      "id": 18
+    }
+  ]
+}
